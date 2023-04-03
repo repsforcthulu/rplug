@@ -1,2 +1,2 @@
-# rplug
+# rubyplug
 extending ruby functionality
